@@ -1,0 +1,40 @@
+/* 
+box_1 #EB4542
+box_2 #F5A032
+box_3 #DBD44B
+box_4 #46F259
+box_5 #43CEE8
+*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.box {
+    color: #fff;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+}
+
+.container {
+    border: 5px solid #333;
+}
+
+.box_1 {
+    background: #EB4542;
+} 
+.box_2 {
+    background: #F5A032;
+} 
+.box_3 {
+    background: #DBD44B;
+} 
+.box_4 {
+    background: #46F259;
+} 
+.box_5 {
+    background: #43CEE8;
+} 
